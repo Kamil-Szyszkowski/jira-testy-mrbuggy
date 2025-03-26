@@ -13,10 +13,10 @@ Poniżej przedstawiono dwa przykładowe zgłoszenia – pełna dokumentacja znaj
 - **Priorytet**: Niski  
 - **Opis**: Podczas dodawania nowego administratora brak komunikatu walidacyjnego przy pustym polu "Confirm password".  
 - **Kroki do reprodukcji**:
-  I. Zaloguj się jako administrator
-  II. Przejdź do zakładki “Users”
-  III. Kliknij “New Admin”
-  VI. Zostaw wszystkie pola puste i kliknij “Save”
+  1. Zaloguj się jako administrator
+  2. Przejdź do zakładki “Users”
+  3. Kliknij “New Admin”
+  4. Zostaw wszystkie pola puste i kliknij “Save”
 - **Rzeczywisty rezultat**: Brakuje komunikatu walidacyjnego dla pola "Confirm password"  
 - **Oczekiwany rezultat**: Powinien pojawić się komunikat „This field is required.”  
 - **Dowód (film)**: [Zobacz nagranie](https://drive.google.com/file/d/1gD-ZyHXWGRpnlZB1e_9Xz0DpbcmzYyuo/view?usp=sharing)
@@ -28,8 +28,8 @@ Poniżej przedstawiono dwa przykładowe zgłoszenia – pełna dokumentacja znaj
 - **Priorytet**: Średni  
 - **Opis**: Wyszukiwarka w zakładce „Providers” nie rozróżnia wielkich i małych liter.  
 - **Kroki do reprodukcji**:
-  I. Stwórz dwóch Providerów: „TEST” i „test”
-  II. Wyszukaj frazę „test”
+  1. Stwórz dwóch Providerów: „TEST” i „test”
+  2. Wyszukaj frazę „test”
 - **Rzeczywisty rezultat**: Oba wyniki są traktowane jako różne – brak walidacji  
 - **Oczekiwany rezultat**: System powinien wykrywać duplikaty niezależnie od wielkości liter  
 - **Dowód (film)**: [Zobacz nagranie](https://drive.google.com/file/d/1srdinhVljyG4Uj0F-2fn9C1N5X_JcHI5/view?usp=sharing)
@@ -73,4 +73,3 @@ Dokument przygotowany w formacie przypominającym zgłoszenia do systemu JIRA, z
 ## 📍 Status projektu
 Projekt demonstracyjny – część portfolio testera manualnego.  
 Zadanie zrealizowane samodzielnie w ramach ćwiczeń testerskich.
-
