@@ -36,7 +36,7 @@ Zidentyfikowano oraz zgłoszono defekty
 Zebrano materiał do raportu testów
 
 5. Środowisko testowe
-   
+    
 System operacyjny: Windows 11 Pro 64-bit
 
 Przeglądarka: Opera
