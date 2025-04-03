@@ -53,11 +53,16 @@ Google Drive – przechowywanie załączników (zrzuty ekranu)
 ShareX – tworzenie screenshotów
 
 8. Harmonogram testów
+9. 
 Etap	Czas trwania	Status
+
 Przygotowanie środowiska	1h	Zrealizowane
+
 Testy eksploracyjne	5h	Zrealizowane
+
 Zgłoszenie defektów	1h	Zrealizowane
-9. Raport z testów
+
+10. Raport z testów
 Łącznie wykryto 9 defektów, które zostały zgłoszone w systemie Jira. Szczegóły dostępne są w pliku:
 
 📄 Zgłoszenia błędów – [Jira test aplikacji MrBuggy.docx](./Jira%20test%20aplikacji%20MrBuggy.docx)
