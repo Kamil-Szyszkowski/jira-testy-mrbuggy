@@ -61,7 +61,7 @@ Dokument przygotowany w formacie przypominającym zgłoszenia do systemu JIRA, z
 - `README.md` – opis projektu + przykładowe zgłoszenia
 - 📄 Zgłoszenia błędów – [Jira test aplikacji MrBuggy.docx](./Jira%20test%20aplikacji%20MrBuggy.docx)
 
-- ## 📄 Plan testów -  [Plan-Testów.md](./Plan-Testów.md)
+- 📄 Plan testów -  [Plan-Testów.md](./Plan-Testów.md)
 
 
 ---
