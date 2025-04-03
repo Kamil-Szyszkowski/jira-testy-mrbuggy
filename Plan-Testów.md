@@ -59,7 +59,7 @@ Testy eksploracyjne	5h	Zrealizowane
 Zgłoszenie defektów	1h	Zrealizowane
 9. Raport z testów
 Łącznie wykryto 9 defektów, które zostały zgłoszone w systemie Jira. Szczegóły dostępne są w pliku:
-📄 Jira-test-aplikacji-MrBuggy.docx
+📄 Zgłoszenia błędów – [Jira test aplikacji MrBuggy.docx](./Jira%20test%20aplikacji%20MrBuggy.docx)
 
 Autor: Kamil Szyszkowski
 Data: Kwiecień 2025
