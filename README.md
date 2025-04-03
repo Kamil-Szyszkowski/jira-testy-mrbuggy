@@ -60,6 +60,9 @@ Dokument przygotowany w formacie przypominającym zgłoszenia do systemu JIRA, z
 ## 📎 Zawartość repozytorium
 - `Jira test aplikacji MrBuggy.docx` – pełna dokumentacja zgłoszonych błędów
 - `README.md` – opis projektu + przykładowe zgłoszenia
+- ## 📄 Plan testów
+
+Zobacz plan testów → [Plan-Testów.md](./Plan-Testów.md)
 
 ---
 
