@@ -3,7 +3,7 @@
 
 Celem niniejszego planu testów jest przetestowanie kluczowych funkcjonalności aplikacji MrBuggy7 oraz wykrycie defektów w wersji testowej systemu. Testy zostały wykonane w środowisku testowym na podstawie ogólnodostępnej wersji aplikacji.
 
-3. Zakres testów
+2. Zakres testów
    
 Zakres testów obejmuje:
 
@@ -43,7 +43,7 @@ Przeglądarka: Opera
 
 Urządzenie: PC oraz urządzenie mobilne (iPhone 13)
 
-7. Kategorie testów
+6. Kategorie testów
 
 Błąd krytyczny
 
