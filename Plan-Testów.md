@@ -63,7 +63,9 @@ ShareX – tworzenie screenshotów
 Etap	Czas trwania	Status
 
 Przygotowanie środowiska	1h	Zrealizowane
+
 Testy eksploracyjne	5h	Zrealizowane
+
 Zgłoszenie defektów	1h	Zrealizowane
 
 15. Raport z testów
